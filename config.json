@@ -1,0 +1,25 @@
+{
+  "IMPORTANT": "CONFIRME QUE SEU BANCO ESTA CONFIGURADO COM O FORMATO DE DATA DMY",
+
+  "postgres":{
+    "user": "root",
+    "password": "root",
+    "host": "localhost",
+    "port": "5432",
+    "database": "trab_db"
+  },
+
+  "diretorio_tabelas": {
+    "bem_candidato":  "C:/Users/gusta/Desktop/src/bem_candidato_2020_BRASIL.csv",
+    "consulta_cand": "C:/Users/gusta/Desktop/src/consulta_cand_2020_BRASIL.csv",
+    "motivo_cassacao": "C:/Users/gusta/Desktop/src/motivo_cassacao_2020_BRASIL.csv",
+    "consulta_coligacao": "C:/Users/gusta/Desktop/src/consulta_coligacao_2020_BRASIL.csv",
+    "consulta_vagas": "C:/Users/gusta/Desktop/src/consulta_vagas_2020_BRASIL.csv"
+  },
+
+
+  "show_tables": false,
+
+  "drop_if_exists": false
+
+}
